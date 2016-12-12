@@ -1,4 +1,4 @@
-# SarCrypt - Stupid one-way text encryption.
+# SarCrypt - Stupid one-way text encryption (C#)
 
 ## Features
 - One by one character substitution, kind of like Caesar Cipher but with a constrained character set and a string key instead of an offset value.
